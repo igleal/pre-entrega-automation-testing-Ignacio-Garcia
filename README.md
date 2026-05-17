@@ -42,8 +42,8 @@ proyecto/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone <https://github.com/igleal/pre-entrega-automation-testing--Ignacio-Garcia-..git>
+cd <pre-entrega-automation-testing--Ignacio-Garcia-..git>
 ```
 
 ### 2. Instalar dependencias
